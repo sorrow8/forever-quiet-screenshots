@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Forever Quiet Screenshots
+## Notes: No "Screen Captured" text in the middle of the screen when you take a screenshot.
+## Notes-ruRU: Без надписи «Screen Captured» посреди экрана, когда делаешь скриншот.
+## Author: sorrow8
+## Version: 1.0.0
+## IconTexture: Interface\Icons\INV_Misc_Spyglass_03
+## Category: Miscellaneous
+
+ForeverQuietScreenshots.lua
