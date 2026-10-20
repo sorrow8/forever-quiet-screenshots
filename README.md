@@ -12,4 +12,10 @@
 
 Built for **World of Warcraft: Forever**.
 
+**Download:** [CurseForge](https://www.curseforge.com/wow/addons/forever-quiet-screenshots) or the [latest GitHub release](https://github.com/sorrow8/forever-quiet-screenshots/releases/latest).
+
 **Install:** unzip the `ForeverQuietScreenshots` folder into `World of Warcraft/_forever_/Interface/AddOns/`. If the game is already running, type `/reload`.
+
+---
+
+**RU:** убирает надпись «Screen Captured» посреди экрана, когда делаешь скриншот. Скриншоты сохраняются как обычно, настраивать ничего не нужно.
