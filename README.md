@@ -13,5 +13,3 @@
 Built for **World of Warcraft: Forever**.
 
 **Install:** unzip the `ForeverQuietScreenshots` folder into `World of Warcraft/_forever_/Interface/AddOns/`. If the game is already running, type `/reload`.
-
-MIT license.
