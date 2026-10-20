@@ -8,10 +8,10 @@
 
 - Screenshots are taken and saved as usual, only the message is gone
 - A screenshot that fails still tells you so
-- Nothing to set up: install and `/reload`
+- Nothing to set up: install it and that's it
 
 Built for **World of Warcraft: Forever**.
 
-**Install:** unzip the `ForeverQuietScreenshots` folder into `World of Warcraft/_forever_/Interface/AddOns/` and type /reload in game.
+**Install:** unzip the `ForeverQuietScreenshots` folder into `World of Warcraft/_forever_/Interface/AddOns/`. If the game is already running, type `/reload`.
 
 MIT license.
